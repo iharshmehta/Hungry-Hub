@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login / Sign Up</title>
-    <!-- <link rel="stylesheet" href="login.css">
-    <link rel="stylesheet" href="header.css"> -->
+
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/loginheader.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+
 </head>
 <body>
 
@@ -19,7 +19,7 @@
         <!-- Header Section Starts -->
         <div class="header">
             <a href="./index.php">
-                <img class="header_logo" src="./assets/mainlogowhite.png">
+                <img class="header_logo" src="./assets/mainlogo_white.png">
             </a>
             <nav>
                 <ul>

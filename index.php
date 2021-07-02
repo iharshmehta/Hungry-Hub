@@ -7,10 +7,11 @@
     <title>Hungry Hub</title>
 
     <!-- CSS only -->
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/mainheader.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="./css/mainheader.css">
-    <link rel="stylesheet" href="./css/customstyle.css">
+
     <!-- <link rel="stylesheet" href="loginheader.css"> -->
 </head>
 <body>
